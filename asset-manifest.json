@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mass-effect-squad-codex/static/css/main.e2c867cb.chunk.css",
+    "main.js": "/mass-effect-squad-codex/static/js/main.24c12125.chunk.js",
+    "main.js.map": "/mass-effect-squad-codex/static/js/main.24c12125.chunk.js.map",
+    "runtime-main.js": "/mass-effect-squad-codex/static/js/runtime-main.bbe9f6a6.js",
+    "runtime-main.js.map": "/mass-effect-squad-codex/static/js/runtime-main.bbe9f6a6.js.map",
+    "static/js/2.e720ea2a.chunk.js": "/mass-effect-squad-codex/static/js/2.e720ea2a.chunk.js",
+    "static/js/2.e720ea2a.chunk.js.map": "/mass-effect-squad-codex/static/js/2.e720ea2a.chunk.js.map",
+    "index.html": "/mass-effect-squad-codex/index.html",
+    "static/css/main.e2c867cb.chunk.css.map": "/mass-effect-squad-codex/static/css/main.e2c867cb.chunk.css.map",
+    "static/js/2.e720ea2a.chunk.js.LICENSE.txt": "/mass-effect-squad-codex/static/js/2.e720ea2a.chunk.js.LICENSE.txt",
+    "static/media/logo.d204d9b9.png": "/mass-effect-squad-codex/static/media/logo.d204d9b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbe9f6a6.js",
+    "static/js/2.e720ea2a.chunk.js",
+    "static/css/main.e2c867cb.chunk.css",
+    "static/js/main.24c12125.chunk.js"
+  ]
+}
